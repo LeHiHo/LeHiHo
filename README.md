@@ -2,7 +2,7 @@
   
 ![Hojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeHiHo&show_icons=true&theme=merko) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHiHo&layout=compact&theme=merko&exclude_repo=Wastewater_Treatment_Self_Diagnosis)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHiHo&layout=compact&theme=merko&exclude_repo=Wastewater_Treatment_Self_Diagnosis,fastapi_ex)
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=lehiho)](https://velog.io/@lehiho)
 
